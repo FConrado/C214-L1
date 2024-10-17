@@ -22,4 +22,4 @@ const taskManager = new ToDoListManager();
 
 taskManager.insertTask(task);
 
-console.log('TASK', task)
+console.log("TASK", task);
